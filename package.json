@@ -1,0 +1,11 @@
+{
+  "name": "quiz-maer-bot",
+  "version": "1.0.0",
+  "description": "QuizMAER",
+  "main": "quiz_maer.js",
+  "author": "@Rodolfo.Ribeiro",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.3.1"
+  }
+}
